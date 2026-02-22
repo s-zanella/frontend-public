@@ -9,9 +9,9 @@ The implementation code is maintained in a separate private repository.
 
 ## How to contribute
 
-- Open an issue describing the bug, proposal, or question.
-- Provide clear reproduction steps and expected behavior when reporting bugs.
-- Keep issue titles short and actionable.
+1. Open an issue describing the bug, proposal, or question.
+2. Provide clear reproduction steps and expected behavior when reporting bugs.
+3. Keep issue titles short and actionable.
 
 ## Pull requests
 
